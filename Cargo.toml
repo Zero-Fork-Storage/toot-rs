@@ -1,0 +1,11 @@
+[package]
+name = "toot-rs"
+version = "0.1.0"
+authors = ["zeroday0619 <zeroday0619_dev@outlook.com>"]
+repository = "https://github.com/zeroday0619/toot-rs"
+edition = "2021"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]:
